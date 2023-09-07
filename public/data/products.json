@@ -1,0 +1,387 @@
+[
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2022-12-01"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-01-01"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-01-01"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2022-12-22"
+        },
+        
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2022-12-22"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-01-22"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-01"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-07-01"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-07-01"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-01"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-01"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-08-03"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-08-03"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-08-16"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-08-16"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-22"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-22"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-22"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-08-22"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-08-24"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-08-24"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-08-26"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-08-26"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-27"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-27"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-27"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-27"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-27"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-08-28"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-05-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-05-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-05-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-04-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-04-01"
+        },
+    
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-01"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-02"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-02"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-12"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-13"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-13"
+        },
+        {
+            "type": "Exercise book",
+            "price": 0.1,
+            "date": "2023-06-14"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-07-21"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-07-21"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-07-21"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-07-23"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-07-28"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-06-05"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-06-05"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-06-09"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-06-09"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-06-09"
+        },
+        {
+            "type": "Carton Box",
+            "price": 0.4,
+            "date": "2023-06-09"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-07-04"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-01"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-01"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-01"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-03"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-03"
+        },
+        {
+            "type": "Paper Bag",
+            "price": 0.3,
+            "date": "2023-06-03"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-03"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-04"
+        }
+        ,
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-04"
+        }
+        ,
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-08"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-08"
+        },
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-08"
+        }
+        ,
+        {
+            "type": "Paper Cup",
+            "price": 0.15,
+            "date": "2023-06-08"
+        }
+]

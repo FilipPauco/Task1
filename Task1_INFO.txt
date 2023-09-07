@@ -1,0 +1,14 @@
+				1.	--- Dashboard --- 
+
+Zakladne info - trackovanie predaju, trzieb, naj. produktu udajov cerpanych z json subora
+	      - filtracia v obdobi (2 datumy)
+	      - male cislo s % v karticke ukazuje narast / prepad oproti poslednemu filtorvanemu obdobiu
+	      - ciarovy graf zobrazuje pocet predajov pre zvolene casove rozmedzie (datumy v grafe spolu s udajmi sa zobrazuju dynamicky)
+	      - kolacovy graf zobrazuje zarobok (podiel) z danych produktov na obdobie ( typy produktov su zadane staticky)
+	      - stranka je plne responzivna
+
+
+
+Dalsie info   - root directory je default - public (lokacia json subora + ikon)
+	      - dummy udaje v json subore su v rozmedzi (12/2022 - 1/2023 a 04/2023 - 09/2023)
+	      - pouzival som css framework Tailwind
